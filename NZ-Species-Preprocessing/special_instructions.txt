@@ -1,0 +1,169 @@
+R,Aoraki denticulata,Aoraki denticulata major
+R,Aoraki inerma,Aoraki inerma inerma
+R,Blechnum patersonii,Blechnum patersonii patersonii
+R,Chroicocephalus novaehollandiae,Chroicocephalus novaehollandiae scopulinus
+K,Corbula (caryocorbula) zelandica
+K,Hoplodactylus "central otago"
+K,Hoplodactylus "otago large"
+K,Hoplodactylus "poor knights"
+K,Hoplodactylus "southern alps"
+K,Hoplodactylus "southern north island"
+D,Invertebrate iridescent virus 31
+R,Lepidurus apus,Lepidurus apus viridis
+K,Lycaena 'canterbury common copper'
+R,Pachyschistochila subhyalina,Pachyschistochila subhyalina subhyalina
+R,Phalacrus uniformis,Phalacrus uniformis frigoricola
+R,Pisonia brunoniana,Pisonia brunoniana ‘variegata’
+R,Senecio matatini,Senecio matatini basinudus
+R,Senecio matatini,Senecio matatini discoideus
+R,Tirumala hamata,Tirumala hamata hamata
+R,Trichocereus macrogonus,Trichocereus macrogonus pachanoi
+R,Abutilon × hybridum,Abutilon hybridum
+K,Aciphylla cartilaginea
+K,Aciphylla traillii
+R,Asparagus setaceus,Asparagus plumosus
+R,Blechnum chambersii,Austroblechnum lanceolatum
+R,Bomarea multiflora,Bomarea caldasii
+K,Brachyglottis buchananii
+K,Brachyglottis elaeagnifolia
+K,Brachyglottis arborescens
+K,Brachyglottis repanda
+K,Brachyscome pinnata
+R,Brachyscome sinclairii,Brachyscome sinclairii [as brachycome sinclairii]
+R,Bromus catharticus,Bromus catharticus catharticus,Bromus unioloides
+R,Bromus stamineus,Bromus cebadilla
+K,Bromus valdivianus
+K,Brugmansia arborea
+K,Brugmansia × candida
+R,Calantica spinilatera,Smilium spinosa
+R,Callistachys lanceolata,Oxylobium lanceolatum
+R,Cantharidus antipodum,Margarella antipoda
+K,Celmisia argentea
+K,Celmisia clavata
+R,Centrolepis pallida,Centrolepis minima
+K,Chaetomorpha aerea
+K,Chaetomorpha linum
+R,Cladia aggregata,Cladonia aggregata
+K,Clavulina coralloides
+R,Clavulina cristata,Clavulina cristata zealandica
+K,Clianthus maximus
+K,Clianthus puniceus
+R,Coprosma acerosa,Coprosma acerosa f brunnea
+K,Coprosma brunnea
+K,Coprosma distantia
+K,Coprosma obconica
+R,Cymbastela lamellata,Cymbastela tricalyciformis
+R,Dichelachne crinita,Dichelachne crinata
+K,Epacris pauciflora
+K,Epacris sinclairii
+R,Epilobium alsinoides,Epilobium alsinoides alsinoides,Epilobium alsinoides atriplicifolium,Epilobium alsinoides tenuipes,Epilobium cockaynianum,Epilobium elegans
+R,Epilobium glabellum,Epilobium rubro-marginatum,Epilobium vernicosum
+K,Euphrasia disperma
+K,Euphrasia wettsteiniana
+K,Fuchsia arborescens
+K,Fuchsia paniculata
+R,Geniostoma ligustrifolium,Geniostoma ligustrifolium crassum,Geniostoma ligustrifolium ligustrifolium
+K,Geniostoma rupestre
+K,Gentianella amabilis
+K,Gentianella bellidifolia
+K,Geranium brevicaule
+R,Geranium sessiliflorum,Geranium sessiliflorum arenarium
+K,Geranium gardneri
+K,Geranium solanderi
+K,Heracleum maximum
+K,Heracleum sphondylium
+K,Heterodermia speciosa
+K,Heterodermia tremulans
+K,Hibiscus richardsonii
+K,Hibiscus trionum
+K,Hierodoris stella
+K,Hierodoris stellata
+K,Hoheria ovata
+K,Hoheria sexstylosa
+K,Heteroponera brouni
+K,Huberia brounii
+K,Hydrocotyle hydrophila
+K,Hydrocotyle tripartita
+R,Isolepis cernua,Isolepis cernua cernua,Isolepis platycarpa
+R,Korthalsella lindsayi,Korthalsella lindsayi lindsayi
+K,Korthalsella clavata
+K,Lactifluus clarkeae
+R,Lactarius clarkeae,Lactarius clarkeae aurantioruber
+K,Lagenophora petiolata
+K,Lagenophora strangulata
+K,Lagenophora barkeri
+K,Lagenophora pumila
+K,Lepidium sisymbrioides
+K,Lepidium solandri
+K,Leptecophylla juniperina
+K,Leucopogon parviflorus
+K,Libertia micrantha
+K,Libertia pulchella
+K,Limosella australis
+R,Limosella lineata,Limosella lineata spathulata
+K,Lobelia angulata
+K,Lobelia linnaeoides
+R,Macrophiothrix oliveri,Ophiothrix oliveri
+R,Malus domestica,Malus pumila
+R,Mauranthemum paludosum,Leucanthemum paludosum
+R,Microlejeunea latitans,Harpalejeunea latitans
+K,Microtis parviflora
+K,Microtis unifolia
+K,Mola alexandrini
+K,Mola mola
+R,Myosotis laxa,Myosotis cespitosa
+R,Myosotis lyallii,Myosotis elderi,Myosotis lyallii lyallii
+K,Alleniella hymenodonta
+K,Neckera pennata
+K,Olearia albida
+K,Olearia angulata
+K,Olearia laxiflora
+R,Olearia lineata,Olearia lineata 'dartonii'
+R,Olearia virgata,Olearia virgata serpentina,Olearia virgata virgata
+K,Oligosoma infrapunctatum
+K,Oligosoma newmani
+K,Oligosoma robinsoni
+R,Ostrea chilensis,Tiostrea chiliensis
+K,Ourisia calycina
+K,Ourisia macrocarpa
+R,Phaeoclavulina zippelii,Ramaria zippelii aeruginosa
+R,Phormium cookianum,Phormium colensoi,Phormium cookianum cookianum,Phormium cookianum hookeri
+K,Pimelea microphylla
+R,Pimelea prostrata,Pimelea prostrata prostrata,Pimelea prostrata seismica,Pimelea prostrata ventosa
+R,Platyptilia isodactylus,Platyptilia isodactyla
+R,Poa anceps,Poa anceps anceps,Poa polyphylla
+K,Prunus avium
+K,Prunus cerasus
+K,Psoroma hypnorum
+K,Psoroma paleaceum
+K,Puccinellia chathamica
+K,Puccinellia walkeri
+K,Ramalina celastri
+K,Ramalina ovalis
+R,Ranunculus aquatilis,Ranunculus aquatilis diffusus
+K,Ranunculus trichophyllus
+K,Raoulia albosericea
+K,Raoulia beauverdii
+R,Raoulia hookeri,Raoulia hookeri hookeri
+R,Raukaua edgerleyi,Pseudopanax edgerleyi
+K,Rheum rhabarbarum
+K,Rheum × hybridum
+K,Rumex brownii
+K,Rumex pulcher
+R,Salix babylonica,Salix matsudana,Salix matsudana tortuosa
+R,Goodenia radicans,Selliera microphylla,Selliera radicans
+K,Sophora fulvida
+K,Sophora longicarinata
+R,Sophora microphylla,Sophora microphylla microphylla
+K,Sticta latifrons
+K,Sticta menziesii
+R,Photinia davidiana,Stranvaesia davidiana
+K,Ligustrum vulgare
+K,Syringa vulgaris
+K,Tagetes erecta
+K,Tagetes patula
+R,Thelymitra colensoi,Thelymitra intermedia
+R,Ugni molinae,Myrtus ugni
+K,Wainuia edwardi
+K,Wainuia fallai
+R,Zotovia colensoi,Microlaena colensoi
